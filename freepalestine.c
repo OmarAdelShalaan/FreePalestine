@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Long live Palestine and crush Zionism\n");
+  printf("Long, long, long live Palestine\n");
   return 0;
 }
